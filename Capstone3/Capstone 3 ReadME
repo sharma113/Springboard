@@ -1,0 +1,26 @@
+Data Science Guided Capstone 3
+
+This is for the Data Science Capstone 3 Project. This project focuses on a Myocardial Infarction Complication Machine Learning Model.
+
+Notebooks
+
+1.Data Wrangling -> DW_Capstone3.ipynb 2.Exploratory Data Analysis -> EDA_Capstone3.ipynb 3.Preprocessing and Modeling -> PreprocessingModeling.ipynb 
+
+Reports:
+
+Final Report -> Capstone3_Final_Report.pdf
+Presentation -> Capstone3Presentation.ppt
+Metric Report -> MetricReportCap3.pdf
+Problem Identification
+
+The Question: Can we develop a model that will accurately predict whether a myocaridal infarction patient is a high risk of a cardiac complication during the hospitalization.
+
+The Audience: The results will be presented to the Hospitalist service of the local community hospital.
+
+The Data: The Dataset was downloaded from UCI Machine Learning Repository. The data was collected in the Krasnoyarsk Interdistrict Clinical Hospital No20 named after I. S. Berzon (Russia) in 1992-1995.  It includes over 124 features representing patient healthcare data.
+
+The Modeling Response: Cardiac Complication Patients = 1, Non-Cardiac Complication Patients = 0
+
+The Model: Random Forest with a Recall score of 65% and ROC AUC score of 79%
+
+The Deliverables: Jupyter notebooks of data wrangling through modeling, a final report, and a presentation
